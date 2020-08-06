@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/camelcase */
-import dark from 'antd/dist/dark-theme';
+import dark from 'machinaai/dist/dark-theme';
 
 export default {
   hack_less: `true;@import "${require.resolve('antd/lib/style/color/colorPalette.less')}";`,
@@ -27,19 +27,18 @@ export default {
   '@screen-lg': '1024px',
   '@screen-md': '768px',
 
-  // 移动
+  // Movil
   '@screen-sm': '767.9px',
-  // 超小屏
+  // Pantalla ultra pequeña
   '@screen-xs': '375px',
 
-  // 官网
+  // Página web oficial
   '@site-text-color': '@text-color',
   '@site-border-color-split': 'fade(@light, 5)',
   '@site-heading-color': '@heading-color',
   '@site-header-box-shadow': '0 0.3px 0.9px rgba(0, 0, 0, 0.12), 0 1.6px 3.6px rgba(0, 0, 0, 0.12)',
   '@home-text-color': '@text-color',
 
-  //自定义需要找设计师
   '@gray-8': '@text-color',
   '@background-color-base': '#555',
   '@skeleton-color': 'rgba(0,0,0,0.8)',

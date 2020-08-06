@@ -4,13 +4,13 @@
   "description": "Dark theme variables for Ant Design",
   "main": "index.js",
   "module": "index.js",
-  "homepage": "https://github.com/ant-design/ant-design-dark-theme",
+  "homepage": "https://github.com/machinaai/dark-theme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ant-design/ant-design-dark-theme.git"
+    "url": "git+https://github.com/machinaai/dark-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/ant-design/ant-design-dark-theme/issues"
+    "url": "https://github.com/machinaai/dark-theme/issues"
   },
   "peerDependencies": {
     "antd": "^4.0.0"

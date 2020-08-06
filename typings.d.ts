@@ -1,1 +1,1 @@
-declare module 'antd/dist/dark-theme';
+declare module 'machinaai/dist/dark-theme';
